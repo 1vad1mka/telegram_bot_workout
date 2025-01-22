@@ -12,7 +12,6 @@ from functions_bot import get_calories_workout, calculcate_calories_threshhold,\
     format_table, plot_cumulative_progress, get_workout_recommendation, translate_text
 from datetime import datetime
 import io
-import plotly
 
 users_data = {}
 history_data = {}
