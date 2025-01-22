@@ -1,0 +1,9 @@
+aiogram==3.*
+aiohttp==3.11.*
+emoji==2.14.*
+seaborn==0.13.*
+pandas==2.2.*
+matplotlib==3.10.*
+numpy==2.*
+deep-translator==1.11.4
+python-dotenv==1.0.1
