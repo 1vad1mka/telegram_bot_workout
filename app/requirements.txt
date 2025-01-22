@@ -7,3 +7,4 @@ matplotlib==3.10.*
 numpy==2.*
 deep-translator==1.11.4
 python-dotenv==1.0.1
+logging==0.4.9.6
